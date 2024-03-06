@@ -1,0 +1,16 @@
+{
+  "name": "n215homework-four",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass scss/styles.scss css/styles.css -w --no-source-map",
+    "serve": "live-server"
+  },
+  "keywords": [],
+  "author": "DJ Merrell",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.71.1"
+  }
+}
